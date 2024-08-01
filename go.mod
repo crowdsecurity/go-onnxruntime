@@ -1,3 +1,3 @@
-module github.com/ivansuteja96/go-onnxruntime
+module github.com/crowdsecurity/go-onnxruntime
 
 go 1.14
